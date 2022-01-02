@@ -9,6 +9,6 @@ I primarily work with Laravel and all of the wonders that come with it and my st
     - Laravel
     - Livewire
 
-I am currently a third of the way through my IT degree with a focus on software development (Primarily web).
+Currently I'm a third of the way through my IT degree with a focus on software development (Primarily web).
 
 When I get spare time, I love to train Brazilian Jiujitsu at which I hold the rank of blue belt.
