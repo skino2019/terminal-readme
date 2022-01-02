@@ -1,4 +1,4 @@
-# $ A bit about me?
+# A bit about me?
 
 Hi! My name is Mike from North Wales, United Kingdom where I work as a Data & Development Analyst for the leading hearing care company in the UK. I have around 12 years of IT Experience under my belt with a focus on IT support and web technologies.
 
